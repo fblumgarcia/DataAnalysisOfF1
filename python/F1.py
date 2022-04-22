@@ -13,12 +13,12 @@ def resumeNationality(): # Function to create a list with the nationality of the
             f.write(i)
 
 def assignContinent():
-    america = ["USA\n","BRA\n","CAN\n","ARG\n","VEN\n","COL\n","MEX\n"]
+    america = ["USA\n","CHI\n","BRA\n","CAN\n","ARG\n","VEN\n","COL\n","MEX\n"]
     africa = ["RHO\n","RSA\n"]
     europe = ["SUI\n","ITA\n","NED\n","SWE\n","FRA\n","POL\n",
                 "FIN\n","IRL\n","HUN\n","BEL\n","AUT\n","POR\n","MON\n",
                 "GER\n","DEN\n","ESP\n","GBR\n"]
-    asia = ["THA\n","INA\n","CHI\n","RUS\n","JPN\n","MAS\n","IND\n"]
+    asia = ["THA\n","INA\n","RUS\n","JPN\n","MAS\n","IND\n"]
     oceania = ["NZL\n","AUS\n"]
     nationality = []
     with open("../data/Nationality.csv", "r", encoding="utf-8") as f:

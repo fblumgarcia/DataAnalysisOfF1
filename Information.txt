@@ -1,5 +1,6 @@
-- I search the info of the F1 in the website https://www.formula1.com/en/results.html
-- I organize all the info in Excel DataF1.xlsx
+- I search the info of the F1 in the website https://www.formula1.com/en/results.html, and the results in wikipedia
+- I organize all the info in Excel DataF1.xlsx 
 - I create other field continent with python
-- In python I organize all the NATIONALITY
-- And create a function to relacionate with continent
+- In python I organize all the NATIONALITY and create a function to relacionate with continent
+- With the information of wikipedia, I organize the field Race_finished
+- I created an page in Tableau https://public.tableau.com/app/profile/fernando.blum.garcia/viz/F1FBG/PCOce?publish=yes
